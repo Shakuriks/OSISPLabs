@@ -1,0 +1,5 @@
+﻿  Lab4-OSiSP.cpp
+C:\Users\NikitaLegonkov\source\repos\Lab4-OSiSP\Lab4-OSiSP\Lab4-OSiSP.cpp(83,19): warning C4312: приведение типов: преобразование из "int" в "HMENU" большего размера
+C:\Users\NikitaLegonkov\source\repos\Lab4-OSiSP\Lab4-OSiSP\Lab4-OSiSP.cpp(150,35): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\NikitaLegonkov\source\repos\Lab4-OSiSP\Lab4-OSiSP\Lab4-OSiSP.cpp(161,35): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  Lab4-OSiSP.vcxproj -> C:\Users\NikitaLegonkov\source\repos\Lab4-OSiSP\x64\Debug\Lab4-OSiSP.exe
